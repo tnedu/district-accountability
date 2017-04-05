@@ -1,5 +1,5 @@
-# Data
-*.csv
+# Input Files
+R/data/*.csv
 
 # Output Files
 *.docx

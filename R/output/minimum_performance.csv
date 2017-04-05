@@ -1,0 +1,147 @@
+system,system_name,achievement_met,achievement_eligible,value_added_met,value_added_eligible,BB_reduction_met,BB_reduction_eligible,met_achievement_goal,met_value_added_goal,met_BB_reduction_goal,met_minimum_performance_goal
+10.0,Anderson County,2,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+11.0,Clinton City,2,2,2,2,2,2,TRUE,TRUE,TRUE,TRUE
+12.0,Oak Ridge City,2,3,1,3,2,3,TRUE,TRUE,TRUE,TRUE
+20.0,Bedford County,3,3,0,3,3,3,TRUE,FALSE,TRUE,FALSE
+30.0,Benton County,3,3,1,3,3,3,TRUE,TRUE,TRUE,TRUE
+40.0,Bledsoe County,2,3,1,3,2,3,TRUE,TRUE,TRUE,TRUE
+50.0,Blount County,2,3,2,3,1,3,TRUE,TRUE,TRUE,TRUE
+51.0,Alcoa City,1,3,1,3,2,3,TRUE,TRUE,TRUE,TRUE
+52.0,Maryville City,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+60.0,Bradley County,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+61.0,Cleveland City,2,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+70.0,Campbell County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+80.0,Cannon County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+92.0,Hollow Rock - Bruceton,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+93.0,Huntingdon Special School District,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+94.0,McKenzie Special School District,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+95.0,South Carroll Special School District,3,3,3,3,2,2,TRUE,TRUE,TRUE,TRUE
+97.0,West Carroll Special School District,1,3,1,3,2,3,TRUE,TRUE,TRUE,TRUE
+100.0,Carter County,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+101.0,Elizabethton City,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+110.0,Cheatham County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+120.0,Chester County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+130.0,Claiborne County,2,3,0,3,3,3,TRUE,FALSE,TRUE,FALSE
+140.0,Clay County,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+150.0,Cocke County,3,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+151.0,Newport City,1,2,1,2,1,2,TRUE,TRUE,TRUE,TRUE
+160.0,Coffee County,3,3,3,3,2,3,TRUE,TRUE,TRUE,TRUE
+161.0,Manchester City,2,2,1,2,2,2,TRUE,TRUE,TRUE,TRUE
+162.0,Tullahoma City,3,3,1,3,3,3,TRUE,TRUE,TRUE,TRUE
+170.0,Crockett County,2,3,1,3,2,3,TRUE,TRUE,TRUE,TRUE
+171.0,Alamo City,0,2,2,2,2,2,FALSE,TRUE,TRUE,FALSE
+172.0,Bells City,1,1,0,1,1,1,TRUE,FALSE,TRUE,FALSE
+180.0,Cumberland County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+190.0,Davidson County,2,3,3,3,2,3,TRUE,TRUE,TRUE,TRUE
+200.0,Decatur County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+210.0,DeKalb County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+220.0,Dickson County,2,3,1,3,2,3,TRUE,TRUE,TRUE,TRUE
+230.0,Dyer County,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+231.0,Dyersburg City,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+240.0,Fayette County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+250.0,Fentress County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+260.0,Franklin County,3,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+271.0,Humboldt City,2,3,1,3,2,3,TRUE,TRUE,TRUE,TRUE
+272.0,Milan Special School District,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+273.0,Trenton Special School District,3,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+274.0,Bradford Special School District,3,3,2,3,0,2,TRUE,TRUE,FALSE,FALSE
+275.0,Gibson County Special School District,3,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+280.0,Giles County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+290.0,Grainger County,3,3,1,3,3,3,TRUE,TRUE,TRUE,TRUE
+300.0,Greene County,2,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+301.0,Greeneville City,2,3,3,3,1,3,TRUE,TRUE,TRUE,TRUE
+310.0,Grundy County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+320.0,Hamblen County,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+330.0,Hamilton County,2,3,1,3,1,3,TRUE,TRUE,TRUE,TRUE
+340.0,Hancock County,2,3,0,3,2,3,TRUE,FALSE,TRUE,FALSE
+350.0,Hardeman County,2,3,1,3,0,3,TRUE,TRUE,FALSE,FALSE
+360.0,Hardin County,3,3,0,3,2,3,TRUE,FALSE,TRUE,FALSE
+370.0,Hawkins County,3,3,1,3,3,3,TRUE,TRUE,TRUE,TRUE
+371.0,Rogersville City,2,2,1,2,2,2,TRUE,TRUE,TRUE,TRUE
+380.0,Haywood County,2,3,1,3,2,3,TRUE,TRUE,TRUE,TRUE
+390.0,Henderson County,3,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+391.0,Lexington City,1,2,1,2,1,2,TRUE,TRUE,TRUE,TRUE
+400.0,Henry County,2,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+401.0,Paris Special School District,2,2,2,2,0,2,TRUE,TRUE,FALSE,FALSE
+410.0,Hickman County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+420.0,Houston County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+430.0,Humphreys County,1,3,0,3,2,3,TRUE,FALSE,TRUE,FALSE
+440.0,Jackson County,3,3,1,3,3,3,TRUE,TRUE,TRUE,TRUE
+450.0,Jefferson County,3,3,3,3,2,3,TRUE,TRUE,TRUE,TRUE
+460.0,Johnson County,3,3,0,3,3,3,TRUE,FALSE,TRUE,FALSE
+470.0,Knox County,3,3,3,3,1,3,TRUE,TRUE,TRUE,TRUE
+480.0,Lake County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+490.0,Lauderdale County,2,3,3,3,2,3,TRUE,TRUE,TRUE,TRUE
+500.0,Lawrence County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+510.0,Lewis County,3,3,0,3,3,3,TRUE,FALSE,TRUE,FALSE
+520.0,Lincoln County,3,3,3,3,2,3,TRUE,TRUE,TRUE,TRUE
+521.0,Fayetteville City,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+530.0,Loudon County,3,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+531.0,Lenoir City,2,3,1,3,2,3,TRUE,TRUE,TRUE,TRUE
+540.0,McMinn County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+541.0,Athens City,2,2,2,2,2,2,TRUE,TRUE,TRUE,TRUE
+542.0,Etowah City,2,2,0,2,2,2,TRUE,FALSE,TRUE,FALSE
+550.0,McNairy County,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+560.0,Macon County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+570.0,Jackson-Madison County,3,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+580.0,Marion County,1,3,1,3,3,3,TRUE,TRUE,TRUE,TRUE
+581.0,Richard City,2,2,2,3,2,2,TRUE,TRUE,TRUE,TRUE
+590.0,Marshall County,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+600.0,Maury County,3,3,1,3,2,3,TRUE,TRUE,TRUE,TRUE
+610.0,Meigs County,3,3,3,3,2,3,TRUE,TRUE,TRUE,TRUE
+620.0,Monroe County,3,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+621.0,Sweetwater City,2,2,1,2,2,2,TRUE,TRUE,TRUE,TRUE
+630.0,Montgomery County,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+640.0,Moore County,2,3,3,3,2,3,TRUE,TRUE,TRUE,TRUE
+650.0,Morgan County,3,3,0,3,3,3,TRUE,FALSE,TRUE,FALSE
+660.0,Obion County,1,3,1,3,1,3,TRUE,TRUE,TRUE,TRUE
+661.0,Union City,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+670.0,Overton County,2,3,1,3,2,3,TRUE,TRUE,TRUE,TRUE
+680.0,Perry County,3,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+690.0,Pickett County,2,3,0,3,1,3,TRUE,FALSE,TRUE,FALSE
+700.0,Polk County,2,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+710.0,Putnam County,1,3,1,3,1,3,TRUE,TRUE,TRUE,TRUE
+720.0,Rhea County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+721.0,Dayton City,1,2,2,2,0,2,TRUE,TRUE,FALSE,FALSE
+730.0,Roane County,3,3,1,3,3,3,TRUE,TRUE,TRUE,TRUE
+740.0,Robertson County,3,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+750.0,Rutherford County,2,3,1,3,2,3,TRUE,TRUE,TRUE,TRUE
+751.0,Murfreesboro City,0,2,0,2,0,2,FALSE,FALSE,FALSE,FALSE
+760.0,Scott County,3,3,0,3,2,3,TRUE,FALSE,TRUE,FALSE
+761.0,Oneida Special School District,3,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+770.0,Sequatchie County,3,3,1,3,3,3,TRUE,TRUE,TRUE,TRUE
+780.0,Sevier County,3,3,1,3,2,3,TRUE,TRUE,TRUE,TRUE
+792.0,Shelby County,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+793.0,Arlington City,3,3,1,3,3,3,TRUE,TRUE,TRUE,TRUE
+794.0,Bartlett City,3,3,1,3,3,3,TRUE,TRUE,TRUE,TRUE
+795.0,Collierville City,3,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+796.0,Germantown City,2,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+797.0,Lakeland City,1,1,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+798.0,Millington City,1,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+800.0,Smith County,2,3,0,3,2,3,TRUE,FALSE,TRUE,FALSE
+810.0,Stewart County,3,3,1,3,3,3,TRUE,TRUE,TRUE,TRUE
+820.0,Sullivan County,2,3,0,3,2,3,TRUE,FALSE,TRUE,FALSE
+821.0,Bristol City,3,3,1,3,3,3,TRUE,TRUE,TRUE,TRUE
+822.0,Kingsport City,2,3,2,3,1,3,TRUE,TRUE,TRUE,TRUE
+830.0,Sumner County,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+840.0,Tipton County,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+850.0,Trousdale County,2,3,3,3,2,3,TRUE,TRUE,TRUE,TRUE
+860.0,Unicoi County,2,3,0,3,2,3,TRUE,FALSE,TRUE,FALSE
+870.0,Union County,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+880.0,Van Buren County,3,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+890.0,Warren County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+900.0,Washington County,2,3,0,3,3,3,TRUE,FALSE,TRUE,FALSE
+901.0,Johnson City,3,3,3,3,3,3,TRUE,TRUE,TRUE,TRUE
+910.0,Wayne County,1,3,2,3,1,3,TRUE,TRUE,TRUE,TRUE
+920.0,Weakley County,1,3,0,3,2,3,TRUE,FALSE,TRUE,FALSE
+930.0,White County,3,3,2,3,3,3,TRUE,TRUE,TRUE,TRUE
+940.0,Williamson County,2,3,2,3,1,3,TRUE,TRUE,TRUE,TRUE
+941.0,Franklin Special School District,2,2,1,2,1,2,TRUE,TRUE,TRUE,TRUE
+950.0,Wilson County,2,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE
+951.0,Lebanon Special School District,1,2,0,2,2,2,TRUE,FALSE,TRUE,FALSE
+960.0,West Tenn School for Deaf,0,0,0,2,0,0,,FALSE,,FALSE
+961.0,Alvin C. York Institute,1,1,1,1,1,1,TRUE,TRUE,TRUE,TRUE
+963.0,Tenn School for Blind,1,1,0,3,1,1,TRUE,FALSE,TRUE,FALSE
+964.0,Tenn School for Deaf,1,1,0,3,1,1,TRUE,FALSE,TRUE,FALSE
+970.0,Department of Children's Services,1,1,0,1,1,1,TRUE,FALSE,TRUE,FALSE
+985.0,Achievement School District,1,3,2,3,2,3,TRUE,TRUE,TRUE,TRUE

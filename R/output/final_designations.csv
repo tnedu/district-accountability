@@ -1,0 +1,147 @@
+system,system_name,met_minimum_performance_goal,achievement_average,achievement_designation,subgroup_average,subgroup_designation,overall_average,final_designation
+10.0,Anderson County,TRUE,2.1,Advancing,1.9,Satisfactory,2.02,Advancing
+11.0,Clinton City,TRUE,3.5,Exemplary,3.25,Exemplary,3.4000000000000004,Exemplary
+12.0,Oak Ridge City,TRUE,1.6666666666666667,Satisfactory,2.0357142857142856,Advancing,1.8142857142857143,Satisfactory
+20.0,Bedford County,FALSE,1.9166666666666667,Satisfactory,1.8125,Satisfactory,1.875,In Need of Improvement
+30.0,Benton County,TRUE,2.3,Advancing,1.75,Satisfactory,2.08,Advancing
+40.0,Bledsoe County,TRUE,1.9,Satisfactory,1.0833333333333333,Satisfactory,1.5733333333333333,Satisfactory
+50.0,Blount County,TRUE,2.4166666666666665,Advancing,2.1538461538461537,Advancing,2.3115384615384613,Advancing
+51.0,Alcoa City,TRUE,2.6666666666666665,Advancing,2.6,Advancing,2.6399999999999997,Advancing
+52.0,Maryville City,TRUE,3.3333333333333335,Exemplary,3.1,Exemplary,3.24,Exemplary
+60.0,Bradley County,TRUE,2.75,Advancing,2.3461538461538463,Advancing,2.5884615384615386,Advancing
+61.0,Cleveland City,TRUE,1.8333333333333333,Satisfactory,2.2857142857142856,Advancing,2.0142857142857142,Advancing
+70.0,Campbell County,TRUE,1.5,Satisfactory,1.6428571428571428,Satisfactory,1.557142857142857,Satisfactory
+80.0,Cannon County,TRUE,2.0,Satisfactory,2.1666666666666665,Advancing,2.0666666666666664,Advancing
+92.0,Hollow Rock - Bruceton,TRUE,2.6,Advancing,2.1666666666666665,Advancing,2.4266666666666667,Advancing
+93.0,Huntingdon Special School District,TRUE,3.5,Exemplary,3.2142857142857144,Exemplary,3.385714285714286,Exemplary
+94.0,McKenzie Special School District,TRUE,2.8,Advancing,2.5625,Advancing,2.705,Advancing
+95.0,South Carroll Special School District,TRUE,2.6666666666666665,Advancing,2.75,Advancing,2.7,Advancing
+97.0,West Carroll Special School District,TRUE,2.0,Satisfactory,2.4,Advancing,2.16,Advancing
+100.0,Carter County,TRUE,2.1,Advancing,2.6666666666666665,Advancing,2.3266666666666667,Advancing
+101.0,Elizabethton City,TRUE,2.7,Advancing,2.625,Advancing,2.67,Advancing
+110.0,Cheatham County,TRUE,2.4,Advancing,2.0555555555555554,Advancing,2.2622222222222224,Advancing
+120.0,Chester County,TRUE,2.8,Advancing,2.8333333333333335,Advancing,2.8133333333333335,Advancing
+130.0,Claiborne County,FALSE,1.1,Satisfactory,1.5625,Satisfactory,1.2850000000000001,In Need of Improvement
+140.0,Clay County,TRUE,2.6,Advancing,2.3333333333333335,Advancing,2.4933333333333336,Advancing
+150.0,Cocke County,TRUE,1.6,Satisfactory,1.9,Satisfactory,1.72,Satisfactory
+151.0,Newport City,TRUE,2.6666666666666665,Advancing,2.25,Advancing,2.5,Advancing
+160.0,Coffee County,TRUE,3.5,Exemplary,2.4,Advancing,3.06,Exemplary
+161.0,Manchester City,TRUE,2.875,Advancing,2.9444444444444446,Advancing,2.9027777777777777,Advancing
+162.0,Tullahoma City,TRUE,1.7,Satisfactory,1.4444444444444444,Satisfactory,1.597777777777778,Satisfactory
+170.0,Crockett County,TRUE,3.0,Advancing,2.5,Advancing,2.8,Advancing
+171.0,Alamo City,FALSE,3.125,Exemplary,2.25,Advancing,2.775,In Need of Improvement
+172.0,Bells City,FALSE,3.25,Exemplary,3.0,Advancing,3.1500000000000004,In Need of Improvement
+180.0,Cumberland County,TRUE,2.6666666666666665,Advancing,2.5,Advancing,2.5999999999999996,Advancing
+190.0,Davidson County,TRUE,2.4166666666666665,Advancing,2.289473684210526,Advancing,2.3657894736842104,Advancing
+200.0,Decatur County,TRUE,2.375,Advancing,2.3125,Advancing,2.35,Advancing
+210.0,DeKalb County,TRUE,2.5833333333333335,Advancing,2.0,Satisfactory,2.35,Advancing
+220.0,Dickson County,TRUE,2.3333333333333335,Advancing,2.076923076923077,Advancing,2.230769230769231,Advancing
+230.0,Dyer County,TRUE,3.1,Exemplary,3.0,Advancing,3.06,Exemplary
+231.0,Dyersburg City,TRUE,2.8,Advancing,2.7,Advancing,2.76,Advancing
+240.0,Fayette County,TRUE,2.3333333333333335,Advancing,2.227272727272727,Advancing,2.290909090909091,Advancing
+250.0,Fentress County,TRUE,2.7,Advancing,2.5,Advancing,2.62,Advancing
+260.0,Franklin County,TRUE,2.3,Advancing,1.6818181818181819,Satisfactory,2.0527272727272727,Advancing
+271.0,Humboldt City,TRUE,1.3,Satisfactory,1.45,Satisfactory,1.3599999999999999,Satisfactory
+272.0,Milan Special School District,TRUE,3.3,Exemplary,3.25,Exemplary,3.28,Exemplary
+273.0,Trenton Special School District,TRUE,2.5833333333333335,Advancing,2.65,Advancing,2.6100000000000003,Advancing
+274.0,Bradford Special School District,FALSE,2.4,Advancing,3.25,Exemplary,2.74,In Need of Improvement
+275.0,Gibson County Special School District,TRUE,3.0,Advancing,2.7222222222222223,Advancing,2.888888888888889,Advancing
+280.0,Giles County,TRUE,2.4,Advancing,1.9090909090909092,Satisfactory,2.2036363636363636,Advancing
+290.0,Grainger County,TRUE,2.0,Satisfactory,2.111111111111111,Advancing,2.0444444444444443,Advancing
+300.0,Greene County,TRUE,1.3333333333333333,Satisfactory,1.5555555555555556,Satisfactory,1.422222222222222,Satisfactory
+301.0,Greeneville City,TRUE,2.9166666666666665,Advancing,3.0,Advancing,2.95,Advancing
+310.0,Grundy County,TRUE,1.8,Satisfactory,1.7142857142857142,Satisfactory,1.7657142857142858,Satisfactory
+320.0,Hamblen County,TRUE,3.5,Exemplary,3.0,Advancing,3.3000000000000003,Exemplary
+330.0,Hamilton County,TRUE,1.5833333333333333,Satisfactory,1.65,Satisfactory,1.6099999999999999,Satisfactory
+340.0,Hancock County,FALSE,1.2,Satisfactory,1.0,Marginal,1.12,In Need of Improvement
+350.0,Hardeman County,FALSE,1.5,Satisfactory,1.0909090909090908,Satisfactory,1.3363636363636362,In Need of Improvement
+360.0,Hardin County,FALSE,1.1,Satisfactory,1.4,Satisfactory,1.22,In Need of Improvement
+370.0,Hawkins County,TRUE,1.8,Satisfactory,2.111111111111111,Advancing,1.9244444444444446,Satisfactory
+371.0,Rogersville City,TRUE,2.5,Advancing,3.0,Advancing,2.7,Advancing
+380.0,Haywood County,TRUE,1.9166666666666667,Satisfactory,1.15,Satisfactory,1.6099999999999999,Satisfactory
+390.0,Henderson County,TRUE,2.7,Advancing,2.727272727272727,Advancing,2.710909090909091,Advancing
+391.0,Lexington City,TRUE,2.3333333333333335,Advancing,2.3,Advancing,2.3200000000000003,Advancing
+400.0,Henry County,TRUE,3.3,Exemplary,2.888888888888889,Advancing,3.1355555555555554,Exemplary
+401.0,Paris Special School District,FALSE,3.0,Advancing,2.25,Advancing,2.6999999999999997,In Need of Improvement
+410.0,Hickman County,TRUE,2.2,Advancing,2.2777777777777777,Advancing,2.2311111111111113,Advancing
+420.0,Houston County,TRUE,2.0,Satisfactory,2.0833333333333335,Advancing,2.033333333333333,Advancing
+430.0,Humphreys County,FALSE,1.4,Satisfactory,1.7222222222222223,Satisfactory,1.528888888888889,In Need of Improvement
+440.0,Jackson County,TRUE,1.6,Satisfactory,2.25,Advancing,1.8599999999999999,Satisfactory
+450.0,Jefferson County,TRUE,2.5833333333333335,Advancing,2.5,Advancing,2.55,Advancing
+460.0,Johnson County,FALSE,1.5,Satisfactory,1.8333333333333333,Satisfactory,1.6333333333333333,In Need of Improvement
+470.0,Knox County,TRUE,2.75,Advancing,2.263157894736842,Advancing,2.555263157894737,Advancing
+480.0,Lake County,TRUE,2.375,Advancing,2.0,Satisfactory,2.225,Advancing
+490.0,Lauderdale County,TRUE,3.1,Exemplary,2.9545454545454546,Advancing,3.041818181818182,Exemplary
+500.0,Lawrence County,TRUE,2.3,Advancing,2.6,Advancing,2.42,Advancing
+510.0,Lewis County,FALSE,1.2,Satisfactory,1.6666666666666667,Satisfactory,1.3866666666666667,In Need of Improvement
+520.0,Lincoln County,TRUE,2.9,Advancing,3.388888888888889,Exemplary,3.0955555555555554,Exemplary
+521.0,Fayetteville City,TRUE,2.1666666666666665,Advancing,2.0714285714285716,Advancing,2.1285714285714286,Advancing
+530.0,Loudon County,TRUE,2.6666666666666665,Advancing,2.409090909090909,Advancing,2.5636363636363635,Advancing
+531.0,Lenoir City,TRUE,1.4166666666666667,Satisfactory,1.7142857142857142,Satisfactory,1.5357142857142856,Satisfactory
+540.0,McMinn County,TRUE,1.5,Satisfactory,1.9583333333333333,Satisfactory,1.6833333333333331,Satisfactory
+541.0,Athens City,TRUE,3.3333333333333335,Exemplary,2.75,Advancing,3.1,Exemplary
+542.0,Etowah City,FALSE,1.0,Marginal,1.5,Satisfactory,1.2000000000000002,In Need of Improvement
+550.0,McNairy County,TRUE,2.8,Advancing,2.2222222222222223,Advancing,2.568888888888889,Advancing
+560.0,Macon County,TRUE,1.6666666666666667,Satisfactory,1.625,Satisfactory,1.65,Satisfactory
+570.0,Jackson-Madison County,TRUE,1.25,Satisfactory,1.75,Satisfactory,1.4500000000000002,Satisfactory
+580.0,Marion County,TRUE,1.4,Satisfactory,2.0555555555555554,Advancing,1.6622222222222223,Satisfactory
+581.0,Richard City,TRUE,1.8333333333333333,Satisfactory,3.0,Advancing,2.3,Advancing
+590.0,Marshall County,TRUE,3.25,Exemplary,3.375,Exemplary,3.3,Exemplary
+600.0,Maury County,TRUE,1.4166666666666667,Satisfactory,1.6176470588235294,Satisfactory,1.4970588235294118,Satisfactory
+610.0,Meigs County,TRUE,2.4,Advancing,2.5833333333333335,Advancing,2.4733333333333336,Advancing
+620.0,Monroe County,TRUE,2.2,Advancing,2.1666666666666665,Advancing,2.1866666666666665,Advancing
+621.0,Sweetwater City,TRUE,2.625,Advancing,2.75,Advancing,2.675,Advancing
+630.0,Montgomery County,TRUE,3.5833333333333335,Exemplary,3.25,Exemplary,3.45,Exemplary
+640.0,Moore County,TRUE,3.0,Advancing,2.6,Advancing,2.84,Advancing
+650.0,Morgan County,FALSE,1.8,Satisfactory,1.2857142857142858,Satisfactory,1.5942857142857143,In Need of Improvement
+660.0,Obion County,TRUE,1.9,Satisfactory,2.3,Advancing,2.0599999999999996,Advancing
+661.0,Union City,TRUE,2.6666666666666665,Advancing,2.9444444444444446,Advancing,2.7777777777777777,Advancing
+670.0,Overton County,TRUE,2.0,Satisfactory,2.0,Satisfactory,2.0,Satisfactory
+680.0,Perry County,TRUE,1.7,Satisfactory,2.4166666666666665,Advancing,1.9866666666666668,Satisfactory
+690.0,Pickett County,FALSE,1.2,Satisfactory,1.0,Marginal,1.12,In Need of Improvement
+700.0,Polk County,TRUE,2.6,Advancing,1.75,Satisfactory,2.2600000000000002,Advancing
+710.0,Putnam County,TRUE,2.1666666666666665,Advancing,1.8235294117647058,Satisfactory,2.0294117647058822,Advancing
+720.0,Rhea County,TRUE,1.3333333333333333,Satisfactory,2.409090909090909,Advancing,1.7636363636363637,Satisfactory
+721.0,Dayton City,FALSE,1.75,Satisfactory,1.9,Satisfactory,1.81,In Need of Improvement
+730.0,Roane County,TRUE,2.4,Advancing,2.0454545454545454,Advancing,2.2581818181818183,Advancing
+740.0,Robertson County,TRUE,2.1666666666666665,Advancing,2.0,Satisfactory,2.0999999999999996,Advancing
+750.0,Rutherford County,TRUE,2.3333333333333335,Advancing,2.625,Advancing,2.45,Advancing
+751.0,Murfreesboro City,FALSE,2.0,Satisfactory,1.6818181818181819,Satisfactory,1.8727272727272728,In Need of Improvement
+760.0,Scott County,FALSE,1.7,Satisfactory,1.3333333333333333,Satisfactory,1.5533333333333332,In Need of Improvement
+761.0,Oneida Special School District,TRUE,2.6,Advancing,2.375,Advancing,2.5100000000000002,Advancing
+770.0,Sequatchie County,TRUE,1.3,Satisfactory,1.9285714285714286,Satisfactory,1.5514285714285716,Satisfactory
+780.0,Sevier County,TRUE,1.75,Satisfactory,1.8125,Satisfactory,1.7750000000000001,Satisfactory
+792.0,Shelby County,TRUE,2.5,Advancing,2.5,Advancing,2.5,Advancing
+793.0,Arlington City,TRUE,2.9166666666666665,Advancing,3.0416666666666665,Exemplary,2.966666666666667,Advancing
+794.0,Bartlett City,TRUE,2.9166666666666665,Advancing,2.769230769230769,Advancing,2.8576923076923073,Advancing
+795.0,Collierville City,TRUE,3.0,Advancing,2.923076923076923,Advancing,2.9692307692307693,Advancing
+796.0,Germantown City,TRUE,3.0833333333333335,Exemplary,3.125,Exemplary,3.1,Exemplary
+797.0,Lakeland City,TRUE,3.25,Exemplary,2.8333333333333335,Advancing,3.0833333333333335,Exemplary
+798.0,Millington City,TRUE,2.3333333333333335,Advancing,1.7916666666666667,Satisfactory,2.116666666666667,Advancing
+800.0,Smith County,FALSE,1.6,Satisfactory,1.2222222222222223,Satisfactory,1.448888888888889,In Need of Improvement
+810.0,Stewart County,TRUE,2.4,Advancing,2.5,Advancing,2.44,Advancing
+820.0,Sullivan County,FALSE,1.1,Satisfactory,1.45,Satisfactory,1.24,In Need of Improvement
+821.0,Bristol City,TRUE,2.7,Advancing,2.2,Advancing,2.5,Advancing
+822.0,Kingsport City,TRUE,2.5,Advancing,2.75,Advancing,2.6,Advancing
+830.0,Sumner County,TRUE,3.1666666666666665,Exemplary,3.0,Advancing,3.1,Exemplary
+840.0,Tipton County,TRUE,3.1,Exemplary,3.3181818181818183,Exemplary,3.1872727272727275,Exemplary
+850.0,Trousdale County,TRUE,3.3,Exemplary,3.642857142857143,Exemplary,3.437142857142857,Exemplary
+860.0,Unicoi County,FALSE,1.0833333333333333,Satisfactory,1.2222222222222223,Satisfactory,1.1388888888888888,In Need of Improvement
+870.0,Union County,TRUE,2.6,Advancing,2.6875,Advancing,2.635,Advancing
+880.0,Van Buren County,TRUE,2.6,Advancing,2.375,Advancing,2.5100000000000002,Advancing
+890.0,Warren County,TRUE,1.75,Satisfactory,1.9411764705882353,Satisfactory,1.8264705882352943,Satisfactory
+900.0,Washington County,FALSE,1.4,Satisfactory,2.0,Satisfactory,1.6400000000000001,In Need of Improvement
+901.0,Johnson City,TRUE,3.4166666666666665,Exemplary,3.264705882352941,Exemplary,3.355882352941176,Exemplary
+910.0,Wayne County,TRUE,1.4,Satisfactory,1.4285714285714286,Satisfactory,1.4114285714285715,Satisfactory
+920.0,Weakley County,FALSE,2.0,Satisfactory,2.05,Advancing,2.02,In Need of Improvement
+930.0,White County,TRUE,2.4,Advancing,2.2777777777777777,Advancing,2.351111111111111,Advancing
+940.0,Williamson County,TRUE,3.3333333333333335,Exemplary,3.0833333333333335,Exemplary,3.2333333333333334,Exemplary
+941.0,Franklin Special School District,TRUE,3.5,Exemplary,3.35,Exemplary,3.4400000000000004,Exemplary
+950.0,Wilson County,TRUE,2.9166666666666665,Advancing,2.75,Advancing,2.8499999999999996,Advancing
+951.0,Lebanon Special School District,FALSE,2.125,Advancing,2.0,Satisfactory,2.075,In Need of Improvement
+960.0,West Tenn School for Deaf,FALSE,NaN,,NaN,,NaN,In Need of Improvement
+961.0,Alvin C. York Institute,TRUE,2.0,Satisfactory,3.5,Exemplary,2.6,Advancing
+963.0,Tenn School for Blind,FALSE,1.0,Marginal,NaN,,1.0,In Need of Improvement
+964.0,Tenn School for Deaf,FALSE,1.5,Satisfactory,NaN,,1.5,In Need of Improvement
+970.0,Department of Children's Services,FALSE,NaN,,NaN,,NaN,In Need of Improvement
+985.0,Achievement School District,TRUE,1.9,Satisfactory,1.25,Satisfactory,1.64,Satisfactory
